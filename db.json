@@ -21,6 +21,17 @@
       "title": "records"
     }
   ],
+  "users": [
+    {
+      "id" : 1, 
+      "username" : "tehringer",
+      "password" : ""
+    },{
+      "id" : 1, 
+      "username" : "tehringer",
+      "password" : ""
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
